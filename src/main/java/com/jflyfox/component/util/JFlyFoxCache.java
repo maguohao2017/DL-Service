@@ -47,7 +47,7 @@ public class JFlyFoxCache {
 	/**
 	 * 更新缓存
 	 * 
-	 * 2015年4月24日 下午3:11:40 flyfox 369191470@qq.com
+	 * 2018年4月24日 下午3:11:40
 	 */
 	public static void updateCache() {
 		cache.clear();

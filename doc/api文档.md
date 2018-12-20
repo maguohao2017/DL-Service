@@ -423,12 +423,12 @@ siteId:1 站点ID
             folder_id: 1,
             title: "门头沟",
             create_id: 1,
-            update_time: "2015-01-28 17:29:55",
+            update_time: "2018-01-28 17:29:55",
             publish_time: "2014-03-05",
-            end_time: "2015-01-23",
-            image_url: "download/image_url/20150529_102007_298104.jpg",
-            create_time: "2015-01-28",
-            start_time: "2015-01-29",
+            end_time: "2018-01-23",
+            image_url: "download/image_url/20180529_102007_298104.jpg",
+            create_time: "2018-01-28",
+            start_time: "2018-01-29",
             is_recommend: 1,
             image_net_url: null
         }

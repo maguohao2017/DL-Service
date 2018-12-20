@@ -14,7 +14,7 @@ public class DepartmentSvc extends BaseService {
 	/**
 	 * 获取部门下拉框
 	 * 
-	 * 2015年4月28日 上午11:42:54 flyfox 369191470@qq.com
+	 * 2018年4月28日 上午11:42:54
 	 * 
 	 * @param selected
 	 * @return
@@ -26,7 +26,7 @@ public class DepartmentSvc extends BaseService {
 	/**
 	 * 获取部门下拉框
 	 * 
-	 * 2015年1月28日 下午5:28:40 flyfox 369191470@qq.com
+	 * 2018年1月28日 下午5:28:40
 	 * 
 	 * @return
 	 */
@@ -107,7 +107,7 @@ public class DepartmentSvc extends BaseService {
 	/**
 	 * 获取名称
 	 * 
-	 * 2015年4月28日 上午11:43:07 flyfox 369191470@qq.com
+	 * 2018年4月28日 上午11:43:07
 	 * 
 	 * @param model
 	 * @return

@@ -91,7 +91,7 @@ public class CommentController extends BaseProjectController {
 	/**
 	 * 获取最新评论数
 	 * 
-	 * 2015年3月16日 下午5:33:55 flyfox 369191470@qq.com
+	 * 2018年3月16日 下午5:33:55
 	 */
 	public void count() {
 		JSONObject json = new JSONObject();

@@ -84,7 +84,7 @@ public class Umeditor extends BaseUmeditor {
     /**
      * 图片上传
      *
-     * @see 博文上传，必须严格限制
+     * @see 服务信息上传，必须严格限制
      *
      */
     public void personimageup() {

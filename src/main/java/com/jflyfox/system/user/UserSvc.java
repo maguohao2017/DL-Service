@@ -20,7 +20,7 @@ public class UserSvc extends BaseService {
 	 * 获取没有权限的菜单
 	 * 
 	 * 2018年12月17日 下午11:57:49
-	 * flyfox 369191470@qq.com
+	 *
 	 * @param map 可以访问的菜单
 	 * @return
 	 */
@@ -49,7 +49,7 @@ public class UserSvc extends BaseService {
 	/**
 	 * 返回菜单权限
 	 * 
-	 * 2015年10月12日 下午3:22:00 flyfox 369191470@qq.com
+	 * 2018年10月12日 下午3:22:00
 	 * 
 	 * @param user
 	 * @return
@@ -86,7 +86,7 @@ public class UserSvc extends BaseService {
 	/**
 	 * 获取用户绑定的角色
 	 * 
-	 * 2015年4月28日 下午5:04:55 flyfox 369191470@qq.com
+	 * 2018年4月28日 下午5:04:55
 	 * 
 	 * @param userid
 	 * @return
@@ -101,7 +101,7 @@ public class UserSvc extends BaseService {
 	/**
 	 * 保存用户授权信息
 	 * 
-	 * 2015年4月28日 下午5:05:05 flyfox 369191470@qq.com
+	 * 2018年4月28日 下午5:05:05
 	 * 
 	 * @param userid
 	 * @param roleids

@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -48,7 +48,7 @@ import java.util.Map;
  * 项目BaseControler
  *
  * @author flyfox
- * @date 2015-08-02
+ * @date 2018-08-02
  *
  */
 public abstract class BaseProjectController extends BaseController {
@@ -87,7 +87,7 @@ public abstract class BaseProjectController extends BaseController {
 	/**
 	 * 方法重写
 	 *
-	 * 2015年8月2日 下午3:17:29 flyfox 369191470@qq.com
+	 * 2018年8月2日 下午3:17:29
 	 *
 	 * @return
 	 */
@@ -123,7 +123,7 @@ public abstract class BaseProjectController extends BaseController {
 	/**
 	 * 方法重写
 	 *
-	 * 2015年8月2日 下午3:17:29 flyfox 369191470@qq.com
+	 * 2018年8月2日 下午3:17:29
 	 *
 	 * @return
 	 */
@@ -156,7 +156,7 @@ public abstract class BaseProjectController extends BaseController {
 	/**
 	 * 方法重写
 	 *
-	 * 2015年8月2日 下午3:17:29 flyfox 369191470@qq.com
+	 * 2018年8月2日 下午3:17:29
 	 *
 	 * @return
 	 */
@@ -169,7 +169,7 @@ public abstract class BaseProjectController extends BaseController {
 	/**
 	 * 用户登录，登出记录
 	 *
-	 * 2015年10月16日 下午2:36:39 flyfox 369191470@qq.com
+	 * 2018年10月16日 下午2:36:39
 	 *
 	 * @param user
 	 * @param operType
@@ -231,7 +231,7 @@ public abstract class BaseProjectController extends BaseController {
 	/**
 	 * 公共文章查询sql
 	 *
-	 * 2018年3月19日 下午7:03:11 flyfox 369191470@qq.com
+	 * 2018年3月19日 下午7:03:11
 	 *
 	 * @return
 	 */
@@ -264,7 +264,7 @@ public abstract class BaseProjectController extends BaseController {
 	/**
 	 * 是否是管理员
 	 *
-	 * 2018年1月21日 下午11:55:16 flyfox 369191470@qq.com
+	 * 2018年1月21日 下午11:55:16
 	 *
 	 * @param user
 	 * @return
@@ -277,7 +277,7 @@ public abstract class BaseProjectController extends BaseController {
 	/**
 	 * 文件上传处理
 	 *
-	 * 2018年4月5日 上午4:36:20 flyfox 369191470@qq.com
+	 * 2018年4月5日 上午4:36:20
 	 *
 	 * @param site
 	 * @param uploadFile

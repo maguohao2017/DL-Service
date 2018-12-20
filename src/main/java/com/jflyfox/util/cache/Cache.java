@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@ public interface Cache {
 	/**
 	 * 设置缓存名称
 	 * 
-	 * 2015年4月26日 下午8:31:14 flyfox 330627517@qq.com
+	 * 2018年4月26日 下午8:31:14 flyfox 330627517@qq.com
 	 * 
 	 * @param name
 	 * @return
@@ -35,7 +35,7 @@ public interface Cache {
 	/**
 	 * 根据key获取缓存数据
 	 * 
-	 * 2015年4月26日 下午8:31:25 flyfox 330627517@qq.com
+	 * 2018年4月26日 下午8:31:25 flyfox 330627517@qq.com
 	 * 
 	 * @param key
 	 * @return
@@ -45,7 +45,7 @@ public interface Cache {
 	/**
 	 * 添加缓存获取
 	 * 
-	 * 2015年4月26日 下午8:31:46 flyfox 330627517@qq.com
+	 * 2018年4月26日 下午8:31:46 flyfox 330627517@qq.com
 	 * 
 	 * @param key
 	 * @param value
@@ -56,7 +56,7 @@ public interface Cache {
 	/**
 	 * 移除缓存数据
 	 * 
-	 * 2015年4月26日 下午8:31:52 flyfox 330627517@qq.com
+	 * 2018年4月26日 下午8:31:52 flyfox 330627517@qq.com
 	 * 
 	 * @param key
 	 * @return
@@ -66,7 +66,7 @@ public interface Cache {
 	/**
 	 * 清楚所有数据
 	 * 
-	 * 2015年4月26日 下午8:31:52 flyfox 330627517@qq.com
+	 * 2018年4月26日 下午8:31:52 flyfox 330627517@qq.com
 	 * 
 	 * @return
 	 */
@@ -75,7 +75,7 @@ public interface Cache {
 	/**
 	 * 获取缓存数量
 	 * 
-	 * 2015年4月26日 下午8:31:59 flyfox 330627517@qq.com
+	 * 2018年4月26日 下午8:31:59 flyfox 330627517@qq.com
 	 * 
 	 * @return
 	 */
@@ -93,7 +93,7 @@ public interface Cache {
 	/**
 	 * 返回数据缓存列表
 	 * 
-	 * 2015年4月26日 下午8:33:11 flyfox 330627517@qq.com
+	 * 2018年4月26日 下午8:33:11 flyfox 330627517@qq.com
 	 * 
 	 * @return
 	 */

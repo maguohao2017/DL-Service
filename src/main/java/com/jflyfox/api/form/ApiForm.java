@@ -16,7 +16,7 @@ import com.jflyfox.util.StrUtils;
 /**
  * api 基础form
  * 
- * 2018年9月29日 上午10:29:27 flyfox 369191470@qq.com
+ * 2018年12月29日 上午10:29:27
  */
 public class ApiForm {
 
@@ -35,7 +35,7 @@ public class ApiForm {
 	/**
 	 * 获取分页信息
 	 * 
-	 * 2018年10月3日 下午9:03:02 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午9:03:02
 	 * 
 	 * @return
 	 */
@@ -81,7 +81,7 @@ public class ApiForm {
 	/**
 	 * 获取参数
 	 * 
-	 * 2018年10月3日 下午9:02:45 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午9:02:45
 	 * 
 	 * @param key
 	 * @return
@@ -93,7 +93,7 @@ public class ApiForm {
 	/**
 	 * 获取参数
 	 * 
-	 * 2018年10月3日 下午9:02:45 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午9:02:45
 	 * 
 	 * @param key
 	 * @return
@@ -105,7 +105,7 @@ public class ApiForm {
 	/**
 	 * 获取参数
 	 * 
-	 * 2018年10月3日 下午9:02:45 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午9:02:45
 	 * 
 	 * @param key
 	 * @return
@@ -117,7 +117,7 @@ public class ApiForm {
 	/**
 	 * 获取参数
 	 * 
-	 * 2018年10月3日 下午9:02:45 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午9:02:45
 	 * 
 	 * @param key
 	 * @return
@@ -129,7 +129,7 @@ public class ApiForm {
 	/**
 	 * 获取参数
 	 * 
-	 * 2018年10月3日 下午9:02:45 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午9:02:45
 	 * 
 	 * @param key
 	 * @return
@@ -141,7 +141,7 @@ public class ApiForm {
 	/**
 	 * 获取参数
 	 * 
-	 * 2018年10月3日 下午9:02:45 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午9:02:45
 	 * 
 	 * @param key
 	 * @return
@@ -153,9 +153,9 @@ public class ApiForm {
 	/**
 	 * 获取P参数
 	 * 
-	 * 2018年10月3日 下午9:02:45 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午9:02:45
 	 * 
-	 * @param key
+	 * @param
 	 * @return
 	 */
 	private JSONObject getParams() {

@@ -6,7 +6,7 @@ import com.jflyfox.system.file.service.IFileBackup;
 /**
  * 不进行任何备份,即关闭备份
  * 
- * 2018年4月5日 上午4:53:34 flyfox 369191470@qq.com
+ * 2018年4月5日 上午4:53:34
  */
 public class EmptyBackUp implements IFileBackup {
 

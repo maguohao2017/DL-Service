@@ -35,7 +35,7 @@ public class FileUploadConstants {
 	/**
 	 * 获取文件类型
 	 * 
-	 * 2018年4月5日 上午2:04:10 flyfox 369191470@qq.com
+	 * 2018年4月5日 上午2:04:10
 	 * 
 	 * @param ext
 	 * @return

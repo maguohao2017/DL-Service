@@ -20,7 +20,7 @@ public class ApiController extends BaseProjectController {
 	/**
 	 * api测试入口
 	 * 
-	 * 2018年10月3日 下午5:47:55 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午5:47:55
 	 */
 	public void index() {
 		ApiForm from = getForm();
@@ -31,7 +31,7 @@ public class ApiController extends BaseProjectController {
 	/**
 	 * 开关调试日志
 	 * 
-	 * 2018年10月3日 下午5:47:46 flyfox 369191470@qq.com
+	 * 2018年11月12日 下午5:47:46
 	 */
 	public void debug() {
 		ApiForm from = getForm();
@@ -43,7 +43,7 @@ public class ApiController extends BaseProjectController {
 	/**
 	 * 获取信息入口
 	 * 
-	 * 2018年10月3日 下午1:38:27 flyfox 369191470@qq.com
+	 * 2018年12月3日 下午1:38:27
 	 */
 	public void action() {
 		long start = System.currentTimeMillis();

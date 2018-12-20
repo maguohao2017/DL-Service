@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@ import com.jflyfox.util.StrUtils;
 /**
  * 路径伪静态化
  * 
- * 2015年5月5日 下午5:07:20 flyfox 330627517@qq.com
+ * 2018年5月5日 下午5:07:20 flyfox 330627517@qq.com
  */
 public class HtmlHandler extends Handler {
 
@@ -51,7 +51,7 @@ public class HtmlHandler extends Handler {
 	/**
 	 * 判断是否是静态文件
 	 * 
-	 * 2015年6月6日 上午2:37:48 flyfox 330627517@qq.com
+	 * 2018年6月6日 上午2:37:48 flyfox 330627517@qq.com
 	 * 
 	 * @param s
 	 * @return

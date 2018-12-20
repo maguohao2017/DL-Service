@@ -858,7 +858,7 @@ public class FileManager {
 	/**
 	 * bakup file,before save file,replace file and delete file
 	 * 
-	 * 2018年2月26日 下午3:47:37 flyfox 369191470@qq.com
+	 * 2018年2月26日 下午3:47:37
 	 * 
 	 * @return
 	 * @throws IOException
@@ -899,7 +899,7 @@ public class FileManager {
 	/**
 	 * get Real File Path
 	 * 
-	 * 2018年2月26日 下午3:47:37 flyfox 369191470@qq.com
+	 * 2018年2月26日 下午3:47:37
 	 * 
 	 * @return
 	 */
@@ -911,7 +911,7 @@ public class FileManager {
 	/**
 	 * get File Path
 	 * 
-	 * 2018年2月26日 下午3:47:37 flyfox 369191470@qq.com
+	 * 2018年2月26日 下午3:47:37
 	 * 
 	 * @return
 	 */
@@ -923,7 +923,7 @@ public class FileManager {
 	/**
 	 * get File Path
 	 * 
-	 * 2018年2月26日 下午3:47:37 flyfox 369191470@qq.com
+	 * 2018年2月26日 下午3:47:37
 	 * 
 	 * @return
 	 */

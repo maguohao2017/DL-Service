@@ -26,7 +26,7 @@ import com.jflyfox.util.extend.HtmlUtils;
 /**
  * 个人信息
  * 
- * 2015年3月10日 下午5:36:22 flyfox 369191470@qq.com
+ * 2018年3月10日 下午5:36:22
  */
 @ControllerBind(controllerKey = "/front/person")
 public class PersonController extends BaseProjectController {
@@ -155,7 +155,7 @@ public class PersonController extends BaseProjectController {
 	/**
 	 * 列表公共方法，展示文章和喜欢文章数量以及SEO title
 	 * 
-	 * 2015年8月16日 下午8:48:35 flyfox 369191470@qq.com
+	 * 2018年8月16日 下午8:48:35
 	 * 
 	 * @param user
 	 */
@@ -177,9 +177,9 @@ public class PersonController extends BaseProjectController {
 	}
 
 	/**
-	 * 跳转到发布博文页面
+	 * 跳转到发布服务信息页面
 	 * 
-	 * 2015年6月17日 下午9:53:04 flyfox 369191470@qq.com
+	 * 2018年6月17日 下午9:53:04
 	 */
 	@Before(FrontInterceptor.class)
 	public void newblog() {
@@ -198,9 +198,9 @@ public class PersonController extends BaseProjectController {
 	}
 
 	/**
-	 * 跳转到编辑博文页面
+	 * 跳转到编辑服务信息页面
 	 * 
-	 * 2015年6月17日 下午9:53:04 flyfox 369191470@qq.com
+	 * 2018年6月17日 下午9:53:04
 	 */
 	@Before(FrontInterceptor.class)
 	public void editblog() {
@@ -233,9 +233,9 @@ public class PersonController extends BaseProjectController {
 	}
 
 	/**
-	 * 保存博文
+	 * 保存服务信息
 	 * 
-	 * 2015年6月17日 下午10:12:18 flyfox 369191470@qq.com
+	 * 2018年6月17日 下午10:12:18
 	 */
 	public void saveblog() {
 		JSONObject json = new JSONObject();
@@ -243,7 +243,7 @@ public class PersonController extends BaseProjectController {
 
 		SysUser user = (SysUser) getSessionUser();
 		if (user == null) {
-			json.put("msg", "没有登录，不能提交博文！");
+			json.put("msg", "没有登录，不能提交服务信息！");
 			renderJson(json.toJSONString());
 			return;
 		}
@@ -274,7 +274,7 @@ public class PersonController extends BaseProjectController {
 			// 管理员或者自己才能修改
 			if (!isAdmin(user) //
 					&& model.getCreateId().intValue() != user.getUserid().intValue()) {
-				json.put("msg", "你没有权限修改博文！");
+				json.put("msg", "你没有权限修改服务信息！");
 				renderJson(json.toJSONString());
 				return;
 			}
@@ -283,7 +283,7 @@ public class PersonController extends BaseProjectController {
 		} else { // 新增
 			model.remove("id");
 			if (model.getFolderId() == null || model.getFolderId() <= 0) {
-				model.setFolderId(JFlyFoxUtils.MENU_BLOG); // 博文目录
+				model.setFolderId(JFlyFoxUtils.MENU_BLOG); // 服务信息目录
 			}
 			model.setStatus("1"); // 显示
 			model.setType(11);
@@ -326,9 +326,9 @@ public class PersonController extends BaseProjectController {
 	}
 
 	/**
-	 * 跳转到编辑博文页面
+	 * 跳转到编辑服务信息页面
 	 * 
-	 * 2015年6月17日 下午9:53:04 flyfox 369191470@qq.com
+	 * 2018年6月17日 下午9:53:04
 	 */
 	@Before(FrontInterceptor.class)
 	public void delblog() {
@@ -431,7 +431,7 @@ public class PersonController extends BaseProjectController {
 	/**
 	 * 查看文章某用户发布文章
 	 * 
-	 * 2015年2月26日 下午1:46:14 flyfox 369191470@qq.com
+	 * 2018年2月26日 下午1:46:14
 	 */
 	@Before(FrontInterceptor.class)
 	public void view() {

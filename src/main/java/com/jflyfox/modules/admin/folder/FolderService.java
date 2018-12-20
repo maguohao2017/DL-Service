@@ -30,7 +30,7 @@ public class FolderService extends BaseService {
 	/**
 	 * 更新缓存
 	 * 
-	 * 2015年4月29日 下午4:37:40 flyfox 369191470@qq.com
+	 * 2018年4月29日 下午4:37:40
 	 */
 	public void updateCache() {
 		CacheManager.get(cacheName).clear();
@@ -62,7 +62,7 @@ public class FolderService extends BaseService {
 	 * 通过ID获取URLKey
 	 * 
 	 * 2018年6月23日 下午5:54:17
-	 * flyfox 369191470@qq.com
+	 *
 	 * @param key
 	 * @return
 	 */
@@ -74,7 +74,7 @@ public class FolderService extends BaseService {
 	 * 通过URLKey获取ID
 	 * 
 	 * 2018年6月23日 下午5:51:26
-	 * flyfox 369191470@qq.com
+	 *
 	 * @param key
 	 * @param siteId
 	 * @return
@@ -87,7 +87,7 @@ public class FolderService extends BaseService {
 	/**
 	 * 获取栏目信息
 	 * 
-	 * 2015年4月29日 下午4:37:55 flyfox 369191470@qq.com
+	 * 2018年4月29日 下午4:37:55
 	 * 
 	 * @return
 	 */
@@ -100,7 +100,7 @@ public class FolderService extends BaseService {
 	/**
 	 * 不通过索引获取所有目录
 	 * 
-	 * 2018年3月19日 下午6:04:32 flyfox 369191470@qq.com
+	 * 2018年3月19日 下午6:04:32
 	 * 
 	 * @return
 	 */
@@ -112,7 +112,7 @@ public class FolderService extends BaseService {
 	/**
 	 * 获取栏目菜单
 	 * 
-	 * 2015年4月29日 下午4:37:55 flyfox 369191470@qq.com
+	 * 2018年4月29日 下午4:37:55
 	 * 
 	 * @return
 	 */
@@ -137,7 +137,7 @@ public class FolderService extends BaseService {
 	/**
 	 * 目录复选框
 	 * 
-	 * 2015年1月28日 下午5:28:40 flyfox 369191470@qq.com
+	 * 2018年1月28日 下午5:28:40
 	 * 
 	 * @return
 	 */
@@ -148,7 +148,7 @@ public class FolderService extends BaseService {
 	/**
 	 * 目录复选框
 	 * 
-	 * 2015年1月28日 下午5:28:40 flyfox 369191470@qq.com
+	 * 2018年1月28日 下午5:28:40
 	 * 
 	 * @return
 	 */

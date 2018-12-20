@@ -34,20 +34,20 @@
 		
 		var title = $('[name="model.title"]').val();
 		if(title=='') {
-			Alert('请输入博文题目');
+			Alert('请输入服务信息题目');
 			return false;
 		}
 		if(title.length > 80 ) {
-			Alert('博文（'+title.length+'字）题目过长，请输入小于80个字');
+			Alert('服务信息（'+title.length+'字）题目过长，请输入小于80个字');
 			return false;
 		}
 		
 		if(!ue.hasContents()){
-			Alert('请输入博文内容');
+			Alert('请输入服务信息内容');
 			return false;
 		}
 		if(ue.getContentTxt().length > 1200){
-			Alert('博文（'+ue.getContentTxt().length+'字）文字过长，请输入小于1200个字');
+			Alert('服务信息（'+ue.getContentTxt().length+'字）文字过长，请输入小于1200个字');
 			return false;
 		}
 		
@@ -108,7 +108,7 @@ var bodyContent = {
 			<ol class="breadcrumb" style="margin:0px;">
 			  <li><a href="${BASE_PATH }home.html">首页</a></li>
 			  <li><a href="${BASE_PATH }front/person">我的空间</a></li>
-			  <li>发布博文</li>
+			  <li>发布服务信息</li>
 			</ol>
 		  </div>
 		 	 
@@ -153,7 +153,7 @@ var bodyContent = {
 					    <label for="model.title" class="col-sm-2 control-label">题目</label>
 					    <div class="col-sm-10">
 					    	<input name="model.title" class="form-control" id="model.title" 
-					      	value="${model.title!''}" placeholder="博文题目">
+					      	value="${model.title!''}" placeholder="服务信息题目">
 					    </div>
 					  </div>
 					 
@@ -186,8 +186,8 @@ var bodyContent = {
 						</div>
 						<div class="form-group">
 						    <div class="col-sm-offset-2 col-sm-10" style="color: red;">
-						      1. 博文题目必须填写，并且不能超过80个文字。<br>
-						      2. 博文内容尽量控制在1200个文字内，内容合法健康，否则可能会被删除。<br>
+						      1. 服务信息题目必须填写，并且不能超过80个文字。<br>
+						      2. 服务信息内容尽量控制在1200个文字内，内容合法健康，否则可能会被删除。<br>
 							  3. 关键词请使用逗号分隔不同标签，最多5个哦，并且不能超过150个文字。 <br>
 						    </div>
 						</div>

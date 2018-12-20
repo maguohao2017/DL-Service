@@ -47,7 +47,7 @@ public class UeditorService extends BaseService {
 	/**
 	 * 文件处理
 	 * 
-	 * 2018年4月5日 下午2:14:42 flyfox 369191470@qq.com
+	 * 2018年4月5日 下午2:14:42
 	 * 
 	 * @param outJsonString
 	 * @param site

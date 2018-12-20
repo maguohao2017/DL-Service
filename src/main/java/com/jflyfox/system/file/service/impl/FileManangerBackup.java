@@ -14,7 +14,7 @@ import com.jflyfox.util.StrUtils;
 /**
  * 文件系统备份
  * 
- * 2018年4月5日 上午3:06:20 flyfox 369191470@qq.com
+ * 2018年4月5日 上午3:06:20
  */
 public class FileManangerBackup implements IFileBackup {
 

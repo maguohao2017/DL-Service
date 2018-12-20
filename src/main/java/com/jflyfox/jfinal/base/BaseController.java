@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -73,7 +73,7 @@ public abstract class BaseController extends Controller {
 	/**
 	 * 获取前一个页面
 	 * 
-	 * 2015年3月25日 下午3:47:55 flyfox 330627517@qq.com
+	 * 2018年3月25日 下午3:47:55 flyfox 330627517@qq.com
 	 * 
 	 * @return
 	 */
@@ -84,7 +84,7 @@ public abstract class BaseController extends Controller {
 	/**
 	 * 获取当前时间，保存创建时间使用
 	 * 
-	 * 2015年3月25日 下午3:48:02 flyfox 330627517@qq.com
+	 * 2018年3月25日 下午3:48:02 flyfox 330627517@qq.com
 	 * 
 	 * @return
 	 */
@@ -185,7 +185,7 @@ public abstract class BaseController extends Controller {
 	/**
 	 * 原始的GetModel方法
 	 * 
-	 * 2015年2月25日 上午11:02:37 flyfox 330627517@qq.com
+	 * 2018年2月25日 上午11:02:37 flyfox 330627517@qq.com
 	 * 
 	 * @param modelClass
 	 * @return
@@ -205,7 +205,7 @@ public abstract class BaseController extends Controller {
 	/**
 	 * 新GetModel方法，采用PAGE_ATTR_NAME，作为前缀
 	 * 
-	 * 2015年2月25日 上午11:03:45 flyfox 330627517@qq.com
+	 * 2018年2月25日 上午11:03:45 flyfox 330627517@qq.com
 	 * 
 	 * @param modelClass
 	 * @return
@@ -217,7 +217,7 @@ public abstract class BaseController extends Controller {
 	/**
 	 * 新GetModel方法，采用PAGE_FORM_NAME，作为前缀
 	 * 
-	 * 2015年10月23日 上午11:03:45 flyfox 330627517@qq.com
+	 * 2018年10月23日 上午11:03:45 flyfox 330627517@qq.com
 	 * 
 	 * @param modelClass
 	 * @return

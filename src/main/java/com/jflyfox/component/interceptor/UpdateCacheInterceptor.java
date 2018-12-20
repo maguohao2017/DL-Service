@@ -12,7 +12,7 @@ import com.jflyfox.util.Config;
 /**
  * 缓存更新拦截器
  * 
- * @author flyfox 2015-9-21
+ * @author flyfox 2018-9-21
  */
 public class UpdateCacheInterceptor implements Interceptor {
 

@@ -14,7 +14,7 @@ import com.jflyfox.modules.front.service.FrontCacheService;
 /**
  * Api基础方法
  * 
- * 2018年9月29日 上午11:19:00 flyfox 369191470@qq.com
+ * 2018年9月29日 上午11:19:00
  */
 public class ApiV100Logic extends BaseApiLogic implements IApiLogic {
 

@@ -13,7 +13,7 @@ import com.jflyfox.util.StrUtils;
 /**
  * 图片
  * 
- * 2018年2月5日 上午11:23:24 flyfox 369191470@qq.com
+ * 2018年2月5日 上午11:23:24
  */
 @ControllerBind(controllerKey = "/admin/imageshow")
 public class ImageShowController extends BaseController {

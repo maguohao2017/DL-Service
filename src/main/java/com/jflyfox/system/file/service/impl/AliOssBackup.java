@@ -10,7 +10,7 @@ import com.jflyfox.system.file.util.FileUploadUtils;
 /**
  * 阿里云OSS备份
  * 
- * 2018年4月5日 上午3:07:28 flyfox 369191470@qq.com
+ * 2018年4月5日 上午3:07:28
  */
 public class AliOssBackup implements IFileBackup {
 

@@ -13,7 +13,7 @@ import javax.imageio.ImageIO;
 /**
  * 图片处理Utils
  * 
- * 2018年2月5日 下午2:07:33 flyfox 369191470@qq.com
+ * 2018年2月5日 下午2:07:33
  */
 public class ImageUtils {
 
@@ -34,7 +34,7 @@ public class ImageUtils {
 	/**
 	 * 获取图片信息
 	 * 
-	 * 2018年2月5日 下午2:09:53 flyfox 369191470@qq.com
+	 * 2018年2月5日 下午2:09:53
 	 * 
 	 * @param path
 	 * @return

@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
 /**
  * 验证类
  * 
- * 2015年3月18日 下午3:21:14
+ * 2018年3月18日 下午3:21:14
  * flyfox 330627517@qq.com
  */
 public class ValidUtils {
@@ -40,7 +40,7 @@ public class ValidUtils {
 	/**
 	 * 英文字母或者数字
 	 * 
-	 * 2015年3月18日 下午3:19:36
+	 * 2018年3月18日 下午3:19:36
 	 * flyfox 330627517@qq.com
 	 * @param test
 	 * @return
@@ -57,7 +57,7 @@ public class ValidUtils {
 	/**
 	 * 英文字母
 	 * 
-	 * 2015年3月18日 下午3:19:44
+	 * 2018年3月18日 下午3:19:44
 	 * flyfox 330627517@qq.com
 	 * @param test
 	 * @return
@@ -74,7 +74,7 @@ public class ValidUtils {
 	/**
 	 * 数字
 	 * 
-	 * 2015年3月18日 下午3:20:00
+	 * 2018年3月18日 下午3:20:00
 	 * flyfox 330627517@qq.com
 	 * @param test
 	 * @return
@@ -91,7 +91,7 @@ public class ValidUtils {
 	/**
 	 * 手机号验证
 	 * 
-	 * 2015年3月18日 下午3:20:12
+	 * 2018年3月18日 下午3:20:12
 	 * flyfox 330627517@qq.com
 	 * @param str
 	 * @return 验证通过返回true
@@ -109,7 +109,7 @@ public class ValidUtils {
 	/**
 	 * 电话号码验证
 	 * 
-	 * 2015年3月18日 下午3:20:12
+	 * 2018年3月18日 下午3:20:12
 	 * flyfox 330627517@qq.com
 	 * @param str
 	 * @return 验证通过返回true

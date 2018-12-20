@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@ import java.util.regex.Pattern;
 /**
  * html处理
  * 
- * 2015年2月2日 下午3:39:59 flyfox 330627517@qq.com
+ * 2018年2月2日 下午3:39:59 flyfox 330627517@qq.com
  */
 public class HtmlUtils {
 
@@ -34,7 +34,7 @@ public class HtmlUtils {
 	/**
 	 * 去除Html标签
 	 * 
-	 * 2015年2月2日 下午3:40:49 flyfox 330627517@qq.com
+	 * 2018年2月2日 下午3:40:49 flyfox 330627517@qq.com
 	 * 
 	 * @param htmlStr
 	 * @return
@@ -80,7 +80,7 @@ public class HtmlUtils {
 	 * 
 	 * @请使用changeSpecialCode
 	 * 
-	 *                       2015年5月18日 下午2:00:35 flyfox 330627517@qq.com
+	 *                       2018年5月18日 下午2:00:35 flyfox 330627517@qq.com
 	 * @param content
 	 * @return
 	 */
@@ -91,7 +91,7 @@ public class HtmlUtils {
 	/**
 	 * 修改标签特殊字符
 	 * 
-	 * 2015年5月18日 下午2:00:35 flyfox 330627517@qq.com
+	 * 2018年5月18日 下午2:00:35 flyfox 330627517@qq.com
 	 * 
 	 * @param content
 	 * @return
@@ -109,7 +109,7 @@ public class HtmlUtils {
 	/**
 	 * 删除标签特殊字符
 	 * 
-	 * 2015年6月9日 下午9:30:16 flyfox 330627517@qq.com
+	 * 2018年6月9日 下午9:30:16 flyfox 330627517@qq.com
 	 * 
 	 * @param content
 	 * @return

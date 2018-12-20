@@ -16,7 +16,7 @@ public class FrontVideoService extends BaseService {
 	/**
 	 * 更新缓存,清空
 	 * 
-	 * 2015年4月29日 下午4:37:40 flyfox 369191470@qq.com
+	 * 2018年4月29日 下午4:37:40
 	 */
 	public void clearCache() {
 		CacheManager.get(cacheName).clear();
@@ -25,7 +25,7 @@ public class FrontVideoService extends BaseService {
 	/**
 	 * 返回相册列表
 	 * 
-	 * 2018年2月10日 上午3:05:07 flyfox 369191470@qq.com
+	 * 2018年2月10日 上午3:05:07
 	 * 
 	 * @return
 	 */
@@ -38,7 +38,7 @@ public class FrontVideoService extends BaseService {
 	/**
 	 * 查询相册
 	 * 
-	 * 2018年2月10日 上午2:51:57 flyfox 369191470@qq.com
+	 * 2018年2月10日 上午2:51:57
 	 * 
 	 * @param albumId
 	 * @return
@@ -53,7 +53,7 @@ public class FrontVideoService extends BaseService {
 	 * 查询图片
 	 * 
 	 * 2018年2月10日 上午3:45:05
-	 * flyfox 369191470@qq.com
+	 *
 	 * @param paginator
 	 * @return
 	 */
@@ -70,7 +70,7 @@ public class FrontVideoService extends BaseService {
 	 * 查询图片
 	 * 
 	 * 2018年2月10日 上午3:45:18
-	 * flyfox 369191470@qq.com
+	 *
 	 * @param paginator
 	 * @param albumId
 	 * @return
@@ -89,7 +89,7 @@ public class FrontVideoService extends BaseService {
 	 * 查询图片
 	 * 
 	 * 2018年2月10日 上午3:45:26
-	 * flyfox 369191470@qq.com
+	 *
 	 * @param videoId
 	 * @return
 	 */
@@ -102,7 +102,7 @@ public class FrontVideoService extends BaseService {
 	/**
 	 * 查询推荐图片
 	 * 
-	 * 2015年4月29日 下午4:48:24 flyfox 369191470@qq.com
+	 * 2018年4月29日 下午4:48:24
 	 * 
 	 * @param paginator
 	 * @param folder_id

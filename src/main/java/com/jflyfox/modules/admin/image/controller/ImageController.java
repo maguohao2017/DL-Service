@@ -22,7 +22,7 @@ import com.jflyfox.util.StrUtils;
  * 图片
  * 
  * 2018年2月5日 上午11:23:24
- * flyfox 369191470@qq.com
+ *
  */
 @ControllerBind(controllerKey = "/admin/image")
 public class ImageController extends BaseProjectController {
@@ -98,7 +98,7 @@ public class ImageController extends BaseProjectController {
 	 * Iframe删除
 	 * 
 	 * 2018年2月5日 下午5:51:03
-	 * flyfox 369191470@qq.com
+	 *
 	 */
 	public void del() {
 		int id = getParaToInt();

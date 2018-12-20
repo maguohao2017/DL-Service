@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -150,7 +150,7 @@ public class BaseModel<M extends Model<M>> extends Model<M> {
 	/**
 	 * paginateCache是重构版paginateByCache，使用自己的Cache
 	 * 
-	 * 2015年5月7日 下午12:20:23 flyfox 330627517@qq.com
+	 * 2018年5月7日 下午12:20:23 flyfox 330627517@qq.com
 	 * 
 	 * @param cacheName
 	 * @param key
@@ -174,7 +174,7 @@ public class BaseModel<M extends Model<M>> extends Model<M> {
 	/**
 	 * findCache是重构版findByCache，使用自己的Cache
 	 * 
-	 * 2015年5月7日 下午12:12:08 flyfox 330627517@qq.com
+	 * 2018年5月7日 下午12:12:08 flyfox 330627517@qq.com
 	 * 
 	 * @param cacheName
 	 * @param key
@@ -195,7 +195,7 @@ public class BaseModel<M extends Model<M>> extends Model<M> {
 	/**
 	 * findFirstCache是重构版findByCache，使用自己的Cache
 	 * 
-	 * 2015年5月7日 下午12:12:08 flyfox 330627517@qq.com
+	 * 2018年5月7日 下午12:12:08 flyfox 330627517@qq.com
 	 * 
 	 * @param cacheName
 	 * @param key
@@ -216,7 +216,7 @@ public class BaseModel<M extends Model<M>> extends Model<M> {
 	/**
 	 * 根据Key删除Cache
 	 * 
-	 * 2015年5月7日 下午12:16:43 flyfox 330627517@qq.com
+	 * 2018年5月7日 下午12:16:43 flyfox 330627517@qq.com
 	 * 
 	 * @param cacheName
 	 * @param key
@@ -229,7 +229,7 @@ public class BaseModel<M extends Model<M>> extends Model<M> {
 	/**
 	 * 清理Cache所有数据
 	 * 
-	 * 2015年5月7日 下午12:16:52 flyfox 330627517@qq.com
+	 * 2018年5月7日 下午12:16:52 flyfox 330627517@qq.com
 	 * 
 	 * @param cacheName
 	 */

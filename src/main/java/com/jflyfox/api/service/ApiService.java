@@ -16,7 +16,7 @@ import com.jflyfox.util.ReflectionUtils;
 /**
  * API实现入口
  * 
- * 2018年9月29日 上午11:44:56 flyfox 369191470@qq.com
+ * 2018年9月29日 上午11:44:56
  */
 public class ApiService extends BaseService {
 
@@ -47,7 +47,7 @@ public class ApiService extends BaseService {
 	/**
 	 * 接口方法入口
 	 * 
-	 * 2018年10月3日 下午1:37:58 flyfox 369191470@qq.com
+	 * 2018年10月3日 下午1:37:58
 	 * 
 	 * @param form
 	 * @return

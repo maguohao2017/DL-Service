@@ -40,7 +40,7 @@ public class ApiUtils {
 	/**
 	 * api关闭resp
 	 * 
-	 * 2018年9月29日 上午11:44:38 flyfox 369191470@qq.com
+	 * 2018年9月29日 上午11:44:38
 	 * 
 	 * @return
 	 */
@@ -51,7 +51,7 @@ public class ApiUtils {
 	/**
 	 * 版本错误返回resp
 	 * 
-	 * 2018年9月29日 上午11:44:38 flyfox 369191470@qq.com
+	 * 2018年9月29日 上午11:44:38
 	 * 
 	 * @return
 	 */
@@ -62,7 +62,7 @@ public class ApiUtils {
 	/**
 	 * ip黑名单返回resp
 	 * 
-	 * 2018年9月29日 上午11:44:38 flyfox 369191470@qq.com
+	 * 2018年9月29日 上午11:44:38
 	 * 
 	 * @return
 	 */
@@ -73,7 +73,7 @@ public class ApiUtils {
 	/**
 	 * 调用方法不存在resp
 	 * 
-	 * 2018年9月29日 上午11:44:38 flyfox 369191470@qq.com
+	 * 2018年9月29日 上午11:44:38
 	 * 
 	 * @return
 	 */
@@ -84,7 +84,7 @@ public class ApiUtils {
 	/**
 	 * 调用方法异常resp
 	 * 
-	 * 2018年9月29日 上午11:44:38 flyfox 369191470@qq.com
+	 * 2018年9月29日 上午11:44:38
 	 * 
 	 * @return
 	 */

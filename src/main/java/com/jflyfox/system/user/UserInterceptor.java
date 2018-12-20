@@ -81,7 +81,7 @@ public class UserInterceptor implements Interceptor {
 	/**
 	 * 判断Url是否有权限
 	 * 
-	 * 2018年12月18日 上午12:12:51 flyfox 369191470@qq.com
+	 * 2018年12月18日 上午12:12:51
 	 * 
 	 * @param controller
 	 * @param tmpPath

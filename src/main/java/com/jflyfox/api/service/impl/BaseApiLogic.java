@@ -17,7 +17,7 @@ import com.jflyfox.util.extend.RandomStrUtils;
 /**
  * API基础类
  * 
- * 2018年11月15日 下午9:48:27 flyfox 369191470@qq.com
+ * 2018年11月15日 下午9:48:27
  */
 public abstract class BaseApiLogic implements IApiLogic {
 
@@ -97,7 +97,7 @@ public abstract class BaseApiLogic implements IApiLogic {
 	/**
 	 * 不需要验证的方法
 	 * 
-	 * 2018年11月15日 下午11:03:01 flyfox 369191470@qq.com
+	 * 2018年11月15日 下午11:03:01
 	 * 
 	 * @param form
 	 * @return

@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -26,7 +26,7 @@ import com.jflyfox.util.NumberUtils;
 /**
  * Model 优化修改
  * 
- * 2018年1月16日 下午4:57:39 flyfox 369191470@qq.com
+ * 2018年12月16日 下午4:57:39
  */
 public class BaseProjectModel<M extends Model<M>> extends BaseModel<M> {
 

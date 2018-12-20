@@ -14,7 +14,7 @@ import com.jflyfox.util.cache.CacheManager;
 /**
  * 数据字典缓存
  * 
- * 2014年1月21日 下午11:23:23 flyfox 369191470@qq.com
+ * 2014年1月21日 下午11:23:23
  */
 public class DictCache {
 
@@ -60,7 +60,7 @@ public class DictCache {
 	/**
 	 * 获取下拉菜单
 	 * 
-	 * 2014年1月22日 下午10:08:38 flyfox 369191470@qq.com
+	 * 2014年1月22日 下午10:08:38
 	 * 
 	 * @param type
 	 * @param selected_value
@@ -90,7 +90,7 @@ public class DictCache {
 	/**
 	 * 获取Value值
 	 * 
-	 * 2014年1月22日 下午10:10:26 flyfox 369191470@qq.com
+	 * 2014年1月22日 下午10:10:26
 	 * 
 	 * @param key
 	 * @return
@@ -106,7 +106,7 @@ public class DictCache {
 	/**
 	 * 获取Code值
 	 * 
-	 * 2014年1月22日 下午10:10:26 flyfox 369191470@qq.com
+	 * 2014年1月22日 下午10:10:26
 	 * 
 	 * @param key
 	 * @return
@@ -123,8 +123,8 @@ public class DictCache {
 	/**
 	 * 获取下拉菜单 code:value形式
 	 * 
-	 * 2015年11月3日 上午9:46:55
-	 * flyfox 369191470@qq.com
+	 * 2018年11月3日 上午9:46:55
+	 *
 	 * @param type
 	 * @param selected_code
 	 * @return
@@ -154,8 +154,8 @@ public class DictCache {
 	/**
 	 * 通过type和code获取Value值
 	 * 
-	 * 2015年11月3日 上午9:47:20
-	 * flyfox 369191470@qq.com
+	 * 2018年11月3日 上午9:47:20
+	 *
 	 * @param type
 	 * @param code
 	 * @return

@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -29,7 +29,7 @@ import java.util.Map;
 /**
  * TODO 这个有待完善
  * 
- * 2015年5月30日 下午11:16:22
+ * 2018年5月30日 下午11:16:22
  * flyfox 330627517@qq.com
  */
 public class HttpClientUtils {

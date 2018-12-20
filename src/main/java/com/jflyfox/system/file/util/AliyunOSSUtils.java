@@ -20,7 +20,7 @@ import com.jflyfox.system.config.ConfigCache;
 /**
  * 阿里云存储OSS工具类
  * 
- * 2015年11月16日 上午9:55:27 flyfox 330627517@qq.com
+ * 2018年11月16日 上午9:55:27 flyfox 330627517@qq.com
  */
 public class AliyunOSSUtils {
 
@@ -30,7 +30,7 @@ public class AliyunOSSUtils {
 	/**
 	 * 获取OSS Client
 	 * 
-	 * 2015年11月16日 上午9:06:11 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:11 flyfox 330627517@qq.com
 	 * 
 	 * @return
 	 * @throws OSSException
@@ -43,7 +43,7 @@ public class AliyunOSSUtils {
 	/**
 	 * 上传文件
 	 * 
-	 * 2015年11月16日 上午9:06:40 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:40 flyfox 330627517@qq.com
 	 * 
 	 * @param key
 	 * @param filename
@@ -61,7 +61,7 @@ public class AliyunOSSUtils {
 	/**
 	 * 下载文件
 	 * 
-	 * 2015年11月16日 上午9:06:50 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:50 flyfox 330627517@qq.com
 	 * 
 	 * @param key
 	 * @param filename
@@ -79,7 +79,7 @@ public class AliyunOSSUtils {
 	/**
 	 * 删除一个Bucket和其中的Objects
 	 * 
-	 * 2015年11月16日 上午9:06:57 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:57 flyfox 330627517@qq.com
 	 * 
 	 * @param key
 	 */
@@ -110,7 +110,7 @@ class AliyunOSS {
 	/**
 	 * 获取OSS Client
 	 * 
-	 * 2015年11月16日 上午9:06:11 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:11 flyfox 330627517@qq.com
 	 * 
 	 * @return
 	 * @throws OSSException
@@ -126,7 +126,7 @@ class AliyunOSS {
 	/**
 	 * 删除一个Bucket和其中的Objects
 	 * 
-	 * 2015年11月16日 上午9:06:33 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:33 flyfox 330627517@qq.com
 	 * 
 	 * @param client
 	 * @param bucketName
@@ -147,7 +147,7 @@ class AliyunOSS {
 	/**
 	 * 上传文件
 	 * 
-	 * 2015年11月16日 上午9:06:40 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:40 flyfox 330627517@qq.com
 	 * 
 	 * @param client
 	 * @param bucketName
@@ -187,7 +187,7 @@ class AliyunOSS {
 	/**
 	 * 下载文件
 	 * 
-	 * 2015年11月16日 上午9:06:50 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:50 flyfox 330627517@qq.com
 	 * 
 	 * @param client
 	 * @param bucketName
@@ -206,7 +206,7 @@ class AliyunOSS {
 	/**
 	 * 删除一个Bucket和其中的Objects
 	 * 
-	 * 2015年11月16日 上午9:06:57 flyfox 330627517@qq.com
+	 * 2018年11月16日 上午9:06:57 flyfox 330627517@qq.com
 	 * 
 	 * @param client
 	 * @param bucketName

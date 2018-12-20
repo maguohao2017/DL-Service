@@ -122,7 +122,7 @@ public class AdminController extends BaseProjectController {
 	/**
 	 * 获取第一个跳转页面
 	 * 
-	 * 2015年10月30日 上午8:51:14 flyfox 330627517@qq.com
+	 * 2018年10月30日 上午8:51:14 flyfox 330627517@qq.com
 	 * 
 	 * @param map
 	 * @return

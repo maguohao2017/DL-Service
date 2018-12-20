@@ -74,7 +74,7 @@ public class JFlyFoxUtils {
 	public static final int MENU_ABOUT = 90;
 
 	/**
-	 * 博文目录
+	 * 服务信息目录
 	 */
 	public static final int MENU_BLOG = 100;
 
@@ -110,7 +110,7 @@ public class JFlyFoxUtils {
 	/**
 	 * 编码
 	 * 
-	 * 2015年2月25日 下午2:22:08 flyfox 369191470@qq.com
+	 * 2018年2月25日 下午2:22:08
 	 * 
 	 * @param password
 	 * @return
@@ -122,7 +122,7 @@ public class JFlyFoxUtils {
 	/**
 	 * 解码
 	 * 
-	 * 2015年2月25日 下午2:22:13 flyfox 369191470@qq.com
+	 * 2018年2月25日 下午2:22:13
 	 * 
 	 * @param encryptPassword
 	 * @return
@@ -134,7 +134,7 @@ public class JFlyFoxUtils {
 	/**
 	 * cookie编码
 	 *
-	 * 2015年2月25日 下午2:22:08 flyfox 369191470@qq.com
+	 * 2018年2月25日 下午2:22:08
 	 *
 	 * @param password
 	 * @return
@@ -146,7 +146,7 @@ public class JFlyFoxUtils {
 	/**
 	 * cookie解码
 	 *
-	 * 2015年2月25日 下午2:22:13 flyfox 369191470@qq.com
+	 * 2018年2月25日 下午2:22:13
 	 *
 	 * @param encryptPassword
 	 * @return
@@ -158,7 +158,7 @@ public class JFlyFoxUtils {
 	/**
 	 * 默认密码
 	 * 
-	 * 2015年2月25日 下午2:23:37 flyfox 369191470@qq.com
+	 * 2018年2月25日 下午2:23:37
 	 * 
 	 * @return
 	 */
@@ -170,7 +170,7 @@ public class JFlyFoxUtils {
 	/**
 	 * 删除侵入脚本
 	 * 
-	 * 2015年6月20日 下午5:16:21 flyfox 369191470@qq.com
+	 * 2018年6月20日 下午5:16:21
 	 * 
 	 * @param htmlStr
 	 * @return
@@ -188,7 +188,7 @@ public class JFlyFoxUtils {
 	/**
 	 * url处理
 	 * 
-	 * 2018年4月7日 下午4:40:26 flyfox 369191470@qq.com
+	 * 2018年4月7日 下午4:40:26
 	 * 
 	 * @param path
 	 * @return
@@ -206,7 +206,7 @@ public class JFlyFoxUtils {
 	/**
 	 * 是否是后台请求地址
 	 * 
-	 * 2015年2月27日 上午11:38:37 flyfox 369191470@qq.com
+	 * 2018年2月27日 上午11:38:37
 	 * 
 	 * @param path
 	 * @return

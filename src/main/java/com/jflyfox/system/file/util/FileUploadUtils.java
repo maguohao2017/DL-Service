@@ -29,7 +29,7 @@ public class FileUploadUtils {
 	/**
 	 * 临时路径
 	 * 
-	 * 2018年4月27日 下午4:07:23 flyfox 369191470@qq.com
+	 * 2018年4月27日 下午4:07:23
 	 * 
 	 * @param site
 	 * @param type
@@ -45,7 +45,7 @@ public class FileUploadUtils {
 	/**
 	 * 上传路径
 	 * 
-	 * 2018年4月27日 下午4:07:28 flyfox 369191470@qq.com
+	 * 2018年4月27日 下午4:07:28
 	 * 
 	 * @param site
 	 * @param type
@@ -65,7 +65,7 @@ public class FileUploadUtils {
 	/**
 	 * 获取站点路径
 	 * 
-	 * 2018年4月5日 下午2:23:42 flyfox 369191470@qq.com
+	 * 2018年4月5日 下午2:23:42
 	 * 
 	 * @param site
 	 * @return
@@ -79,7 +79,7 @@ public class FileUploadUtils {
 	/**
 	 * 获取根路径
 	 * 
-	 * 2018年4月5日 下午1:57:33 flyfox 369191470@qq.com
+	 * 2018年4月5日 下午1:57:33
 	 * 
 	 * @return
 	 */
@@ -90,7 +90,7 @@ public class FileUploadUtils {
 	/**
 	 * 获取路径根路径
 	 * 
-	 * 2018年4月5日 下午1:54:45 flyfox 369191470@qq.com
+	 * 2018年4月5日 下午1:54:45
 	 * 
 	 * @return
 	 */
@@ -101,7 +101,7 @@ public class FileUploadUtils {
 	/**
 	 * 重构路径
 	 * 
-	 * 2018年4月5日 下午1:55:59 flyfox 369191470@qq.com
+	 * 2018年4月5日 下午1:55:59
 	 * 
 	 * @param path
 	 * @return

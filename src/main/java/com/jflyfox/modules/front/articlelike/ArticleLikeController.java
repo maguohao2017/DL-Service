@@ -8,7 +8,7 @@ import com.jflyfox.system.user.SysUser;
 /**
  * 文章喜欢
  * 
- * @author flyfox 2015-08-16
+ * @author flyfox 2018-08-16
  */
 @ControllerBind(controllerKey = "/front/articlelike")
 public class ArticleLikeController extends BaseProjectController {
@@ -16,8 +16,8 @@ public class ArticleLikeController extends BaseProjectController {
 	/**
 	 * 喜欢
 	 * 
-	 * 2015年8月16日 下午4:20:10
-	 * flyfox 369191470@qq.com
+	 * 2018年8月16日 下午4:20:10
+	 *
 	 */
 	public void yes() {
 		Integer articleId = getParaToInt();
@@ -57,8 +57,8 @@ public class ArticleLikeController extends BaseProjectController {
 	/**
 	 * 取消喜欢
 	 * 
-	 * 2015年8月16日 下午4:20:27
-	 * flyfox 369191470@qq.com
+	 * 2018年8月16日 下午4:20:27
+	 *
 	 */
 	public void no() {
 		Integer articleId = getParaToInt();

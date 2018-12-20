@@ -13,7 +13,7 @@ import com.jflyfox.util.cache.CacheManager;
 /**
  * 配置管理缓存
  * 
- * 2018年12月17日 下午11:26:25 flyfox 369191470@qq.com
+ * 2018年12月17日 下午11:26:25
  */
 public class ConfigCache {
 

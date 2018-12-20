@@ -18,7 +18,7 @@ import com.jflyfox.util.DateUtils;
 /**
  * 文件上传处理
  * 
- * 2018年4月5日 上午2:57:03 flyfox 369191470@qq.com
+ * 2018年4月5日 上午2:57:03
  */
 public class FileUploadService extends BaseService {
 
@@ -27,7 +27,7 @@ public class FileUploadService extends BaseService {
 	/**
 	 * 获取备份策略
 	 * 
-	 * 2018年4月5日 上午3:32:10 flyfox 369191470@qq.com
+	 * 2018年4月5日 上午3:32:10
 	 * 
 	 * @return
 	 */
@@ -49,7 +49,7 @@ public class FileUploadService extends BaseService {
 	/**
 	 * 恢复备份文件
 	 * 
-	 * 2018年4月5日 下午10:01:43 flyfox 369191470@qq.com
+	 * 2018年4月5日 下午10:01:43
 	 * 
 	 * @param projectPath
 	 * @return
@@ -61,7 +61,7 @@ public class FileUploadService extends BaseService {
 	/**
 	 * 上传文件处理
 	 * 
-	 * 2018年4月5日 上午3:43:33 flyfox 369191470@qq.com
+	 * 2018年4月5日 上午3:43:33
 	 * 
 	 * @param projectStorePath
 	 * @param uploadFile
@@ -75,7 +75,7 @@ public class FileUploadService extends BaseService {
 	/**
 	 * 上传文件处理
 	 * 
-	 * 2018年4月5日 上午3:43:27 flyfox 369191470@qq.com
+	 * 2018年4月5日 上午3:43:27
 	 * 
 	 * @param projectStorePath
 	 *            项目存储路径
@@ -111,7 +111,7 @@ public class FileUploadService extends BaseService {
 	/**
 	 * 重命名
 	 * 
-	 * 2015年9月25日 下午10:37:55 flyfox 369191470@qq.com
+	 * 2018年9月25日 下午10:37:55
 	 * 
 	 * @param newPath
 	 *            重建路径
@@ -166,7 +166,7 @@ public class FileUploadService extends BaseService {
 	/**
 	 * 保存记录
 	 * 
-	 * 2018年4月5日 上午2:56:10 flyfox 369191470@qq.com
+	 * 2018年4月5日 上午2:56:10
 	 * 
 	 * @param bean
 	 *            文件bean信息
@@ -202,7 +202,7 @@ public class FileUploadService extends BaseService {
 	/**
 	 * 将File转换为FileUploadBean
 	 * 
-	 * 2018年4月5日 上午3:02:43 flyfox 369191470@qq.com
+	 * 2018年4月5日 上午3:02:43
 	 * 
 	 * @param file
 	 * @return

@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -28,7 +28,7 @@ import com.jflyfox.util.cache.Cache;
 /**
  * 内存
  * 
- * 2015年4月26日 下午8:24:11 flyfox 330627517@qq.com
+ * 2018年4月26日 下午8:24:11 flyfox 330627517@qq.com
  */
 public class MemoryCache implements Cache {
 

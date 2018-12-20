@@ -13,7 +13,7 @@ import com.jflyfox.util.extend.RandomStrUtils;
 /**
  * 模板方法接口
  * 
- * 2018年1月18日 下午6:05:54 flyfox 369191470@qq.com
+ * 2018年1月18日 下午6:05:54
  */
 public class TemplateVideoService extends BaseService {
 

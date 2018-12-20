@@ -10,7 +10,7 @@ public class SiteConstant {
 	/**
 	 * 多站点判断
 	 * 
-	 * 2018年4月25日 下午5:41:35 flyfox 369191470@qq.com
+	 * 2018年4月25日 下午5:41:35
 	 * 
 	 * @return
 	 */
@@ -22,7 +22,7 @@ public class SiteConstant {
 	 * 获取模板路径
 	 * 
 	 * 2018年12月31日 下午9:07:09
-	 * flyfox 369191470@qq.com
+	 *
 	 * @return
 	 */
 	public static String getTemplatePath() {
@@ -33,7 +33,7 @@ public class SiteConstant {
 	 * 获取session中站点列表
 	 * 
 	 * 2018年12月31日 下午9:07:15
-	 * flyfox 369191470@qq.com
+	 *
 	 * @return
 	 */
 	public static String getSessionSites() {
@@ -44,7 +44,7 @@ public class SiteConstant {
 	 * 获取用户session的站点
 	 * 
 	 * 2018年12月31日 下午9:07:30
-	 * flyfox 369191470@qq.com
+	 *
 	 * @return
 	 */
 	public static String getSessionSite() {

@@ -244,7 +244,7 @@ articlelike = {
 
 function delblog(id) {
 	var url = jflyfox.BASE_PATH + 'front/person/delblog/'+id;
-	var title = '确认要删除该博文？';
+	var title = '确认要删除该服务信息？';
 	Confirm(title, function() {
 		form1.action = url;
 		form1.submit();

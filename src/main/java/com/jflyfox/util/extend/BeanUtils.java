@@ -1,5 +1,5 @@
 /**
- * Copyright 2015-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
+ * Copyright 2018-2025 FLY的狐狸(email:jflyfox@sina.com qq:369191470).
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -42,7 +42,7 @@ public class BeanUtils {
 	/**
 	 * 将Map注入Bean
 	 * 
-	 * 2015年4月3日 下午12:02:28 flyfox 330627517@qq.com
+	 * 2018年4月3日 下午12:02:28 flyfox 330627517@qq.com
 	 * 
 	 * @param srcMap
 	 * @param des
@@ -84,7 +84,7 @@ public class BeanUtils {
 	/**
 	 * 调用src对象 传递给 des对象 如果是null,不注入
 	 * 
-	 * 2015年4月3日 下午12:06:37 flyfox 330627517@qq.com
+	 * 2018年4月3日 下午12:06:37 flyfox 330627517@qq.com
 	 * 
 	 * @param src
 	 *            源对象
@@ -100,7 +100,7 @@ public class BeanUtils {
 	/**
 	 * 调用src对象 传递给 des对象
 	 * 
-	 * 2015年4月3日 下午12:06:37 flyfox 330627517@qq.com
+	 * 2018年4月3日 下午12:06:37 flyfox 330627517@qq.com
 	 * 
 	 * @param src
 	 *            源对象

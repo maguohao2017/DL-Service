@@ -80,7 +80,7 @@ public class VideoalbumController extends BaseProjectController {
 	 * Iframe删除
 	 * 
 	 * 2018年2月5日 下午5:51:03
-	 * flyfox 369191470@qq.com
+	 *
 	 */
 	public void del() {
 		int id = getParaToInt();
@@ -133,7 +133,7 @@ public class VideoalbumController extends BaseProjectController {
 	/**
 	 * 目录复选框
 	 * 
-	 * 2015年1月28日 下午5:28:40 flyfox 369191470@qq.com
+	 * 2018年1月28日 下午5:28:40
 	 * 
 	 * @return
 	 */
